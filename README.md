@@ -44,18 +44,12 @@
 ## 📊 GitHub Analytics
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Adrian0107&color=blue)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adrian0107&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adrian0107&theme=radical)]
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Adrian0107&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrian0107&layout=compact&theme=radical" alt="Top Languages" height="165"/>
 </p>
-
----
-
-## 📌 Proyectos Destacados
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Adrian0107&repo=nombre-repo&theme=radical)](https://github.com/Adrian0107/nombre-repo)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Adrian0107&repo=nombre-repo&theme=radical)](https://github.com/Adrian0107/nombre-repo)
 
 ---
 
