@@ -39,12 +39,12 @@
 ---
 
 ## 📊 GitHub Analytics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adrian0107&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adrian0107&layout=compact&theme=radical)
 
 ---
 
 ## 🤝 Connect with Me
 📧 **Email:** adriaivan91@gmail.com  
-💼 **LinkedIn:** [Tu Perfil de LinkedIn](#)  
+💼 **LinkedIn:** [https://www.linkedin.com/in/adrian-brise%C3%B1o-torres-067393241/](#)  
 📂 **Portafolio:** [Tu Portafolio](#)
